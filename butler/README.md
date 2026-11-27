@@ -24,7 +24,8 @@ Nous trouvons les résultats suivants :
   pour $$Z_c=Z_0/\sqrt{2}=35,35ohm$$, $$W_{r2}=2,886mm$$ et $$d_{r2}=18,214mm$$
 - JLCPCB :     
    pour $$Z_c=Z_0=50ohm$$, $$W_{j1}=4,25826mm$$ et $$d_{j1}=21,15mm$$     
-  pour $$Z_c=Z_0/\sqrt{2}=35,35ohm$$, $$W_{j2}=6,99189mm$$ et $$d_{j2}=20,804mm$$     
+  pour $$Z_c=Z_0/\sqrt{2}=35,35ohm$$, $$W_{j2}=6,99189mm$$ et $$d_{j2}=20,804mm$$       
 
 
-  On prend donc le substrat le plus épais avec la permittivité la plus faible
+On prend donc le substrat le plus épais avec la permittivité la plus faible : JLCPCB (tan(d)=0.0018 , Er=2.55, h=1.52mm).
+Les valeurs de linecalc ainsi que nos valeurs calculées sont similaires, on s'applique donc avec un tuning à optimiser notre branch-line.
