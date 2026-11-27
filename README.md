@@ -18,7 +18,7 @@
 PCBS séparés → réseau de 4 antennes (à vérifier) (4 PCBS séparés 1 par antenne)    
 Matrice Butler : Elise F, Julie D    
 Antenne élémentaire : Awa, Callum    
-envoi PCB avant vacances de Noël    
+**envoi PCB avant vacances de Noël**    
 
 Pas plus de 1 ou 2 séances pour les calculs théoriques
 
