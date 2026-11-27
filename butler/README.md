@@ -19,7 +19,9 @@ Pour finir :
 $$\varepsilon_{\text{eff}} = \frac{\varepsilon_r + 1}{2} + \frac{\varepsilon_r - 1}{2}\left(1 + \frac{12h}{W}\right)^{-1/2}$$     et    $$d = \frac{c}{4\,f\sqrt{\varepsilon_{\text{eff}}}}$$
 
 Nous trouvons les résultats suivants :      
-- Roger : pour $$Z_c=Z_0=50ohm$$, $$W_r1=1,724mm$$ et $$d_r1=18,588mm$$     
+- Roger :
+   pour $$Z_c=Z_0=50ohm$$, $$W_r1=1,724mm$$ et $$d_r1=18,588mm$$     
   pour $$Z_c=Z_0/sqrt{2}=35,35ohm$$, $$W_r2=2,886mm$$ et $$d_r2=18,214mm$$
-- JLCPCB : pour $$Z_c=Z_0=50ohm$$, $$W_j1=4,25826mm$$ et $$d_j1=21,15mm$$     
+- JLCPCB :
+   pour $$Z_c=Z_0=50ohm$$, $$W_j1=4,25826mm$$ et $$d_j1=21,15mm$$     
   pour $$Z_c=Z_0/sqrt{2}=35,35ohm$$, $$W_j2=6,99189mm$$ et $$d_j2=20,804mm$$
