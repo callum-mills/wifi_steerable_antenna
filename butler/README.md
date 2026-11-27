@@ -15,4 +15,4 @@ $$\frac{W}{h} = \frac{2}{\pi}\left[B - 1 - \ln(2B - 1) + \frac{\varepsilon_r - 1
 
 Pour finir :      
 $$\varepsilon_{\text{eff}} = \frac{\varepsilon_r + 1}{2} + \frac{\varepsilon_r - 1}{2}\left(1 + \frac{12h}{W}\right)^{-1/2}$$     et
-$$d = \frac{c}{4\,f\sqrt{\varepsilon_{\text{eff}}}}$$
+  $$d = \frac{c}{4\,f\sqrt{\varepsilon_{\text{eff}}}}$$
