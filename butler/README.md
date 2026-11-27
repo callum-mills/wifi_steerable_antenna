@@ -21,7 +21,7 @@ $$\varepsilon_{\text{eff}} = \frac{\varepsilon_r + 1}{2} + \frac{\varepsilon_r -
 Nous trouvons les résultats suivants :      
 - Roger :     
    pour $$Z_c=Z_0=50ohm$$, $$W_{r1}=1,724mm$$ et $$d_{r1}=18,588mm$$     
-  pour $$Z_c=Z_0/sqrt{2}=35,35ohm$$, $$W_{r2}=2,886mm$$ et $$d_{r2}=18,214mm$$
+  pour $$Z_c=Z_0/\sqrt{2}=35,35ohm$$, $$W_{r2}=2,886mm$$ et $$d_{r2}=18,214mm$$
 - JLCPCB :     
    pour $$Z_c=Z_0=50ohm$$, $$W_{j1}=4,25826mm$$ et $$d_{j1}=21,15mm$$     
-  pour $$Z_c=Z_0/sqrt{2}=35,35ohm$$, $$W_{j2}=6,99189mm$$ et $$d_{j2}=20,804mm$$
+  pour $$Z_c=Z_0/\sqrt{2}=35,35ohm$$, $$W_{j2}=6,99189mm$$ et $$d_{j2}=20,804mm$$
