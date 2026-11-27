@@ -1,9 +1,10 @@
 ## Schéma sous ADS
-Nous commençons par modéliser/optimiser 1 branch-line puis nous pouvons passer au schéma complet (avec design de la matrice butler).     
+Nous commençons par modéliser/optimiser 1 branch-line puis nous pouvons passer au schéma complet (avec design de la matrice butler).    
+Nous travaillons à f=2,44GHz ainsi que Z0=50 ohm.     
 Nous avons 2 propositions de substrat :      
 - le Roger (tan(d)=0.0037 , Er=3.48, h=0.76mm) avec h l'éapisseur du substrat
-- le JLCPCB (tan(d)=0.0018 , Er=2.55, h=1.52mm)
-     Avant de passer au linecalc nous avons fait les calculs à la main avec les formules suivantes :
+- le JLCPCB (tan(d)=0.0018 , Er=2.55, h=1.52mm)     
+Avant de passer au linecalc nous avons fait les calculs à la main avec les formules suivantes :
 $$A = \frac{Z_c}{60}\sqrt{\frac{\varepsilon_r + 1}{2}} + \frac{\varepsilon_r - 1}{\varepsilon_r + 1}\left(0,23 + \frac{0,11}{\varepsilon_r}\right)$$
 $$B = \frac{377\pi}{2\,Z_c\sqrt{\varepsilon_r}}$$
 
