@@ -15,4 +15,4 @@ Nombre d’antennes élémentaires ? 4 ?
 # Seance 2
 
 2 groupes de travail : Antenne & Butler
-Début de simulation & tests sous ADS
+Début de simulation & tests sous ADS (choix substrat Roger ou JLCPCB pour matrice butler)     
